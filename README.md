@@ -2,18 +2,18 @@
 
 A full-stack coaching app built using modern web technologies.
 
-## 🚀 Tech Stack
+## Tech Stack
 - Frontend: React + Tailwind CSS
 - Backend: Node.js + Express
 - Database: MongoDB
 
-## ✨ Features
+## Features
 - User Authentication
 - Course Management
 - File Upload System
 - Responsive UI
 
-## 📂 Project Setup
+## Project Setup
 ```bash
 npm install
 npm start
